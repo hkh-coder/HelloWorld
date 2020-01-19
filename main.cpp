@@ -6,5 +6,11 @@ int main()
 {
     cout << "hello world" <<endl;
 }
-
+void sort()
+{
+    for(int i = 0;i<10;++i)
+    {
+        cout << endl;
+    }
+}
 } // namespace  std;
